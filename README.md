@@ -13,8 +13,5 @@ This project is focused on processing Photoplethysmogram (PPG) signals. It inclu
 2. Run the `ppg_processing.py` script to process and analyze PPG signals.
 3. Refer to the images for visual reference.
 
-## Author
-- [Your Name]
-
 ## License
 This project is for educational and research purposes only.
